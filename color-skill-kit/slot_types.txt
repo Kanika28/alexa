@@ -1,0 +1,9 @@
+LIST_OF_COLORS
+silver
+orange
+black
+white
+yellow
+blue
+red
+green

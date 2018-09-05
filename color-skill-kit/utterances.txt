@@ -1,0 +1,9 @@
+MyColorIsIntent
+
+my favorite color is {Color}
+
+WhatsMyColorIntent
+
+my color
+what is my favorite color
+what's my favorite color
